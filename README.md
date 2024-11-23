@@ -19,14 +19,18 @@ I’m an apprentice at **Saral Startup School**, where I’m honing my backend d
 ## 🌱 Learning Goals
 - Master full-stack development with a focus on backend.  
 - Contribute to open-source projects to give back to the developer community.  
-- Refine my skills in database design and cloud deployment.  
+- Refine my skills in database design and cloud deployment.
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=iamnabeelrahman&show_icons=true&theme=radical) 
+
+## 🏆 GitHub Trophies
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iamnabeelrahman&theme=radical&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)  
 
 ## 📬 Let’s Connect
 - 🌐 [GitHub](https://github.com/iamnabeelrahman)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/iamnabeelrahman/)  
-- ✉️ Email: [nabeel.r.work@gmail.com](mailto:nabeel.r.work@gmail.com)  
+- ✉️ Email: [nabeel.r.work@gmail.com](mailto:nabeel.r.work@gmail.com) 
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=iamnabeelrahman&show_icons=true&theme=radical)  
 
 Thanks for stopping by! Feel free to reach out for collaboration or just to say hi! 😊
