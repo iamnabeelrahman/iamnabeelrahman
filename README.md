@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **[Nabeel Rahman]**, a passionate backend developer 🚀 with a keen interest in creating innovative solutions that combine functionality and user experience. I love working on projects that challenge me to learn and grow as a developer.  
+I'm **Nabeel Rahman**, a passionate backend developer 🚀 with a keen interest in creating innovative solutions that combine functionality and user experience. I love working on projects that challenge me to learn and grow as a developer.  
 
 ## 🛠️ What I’m Doing
 - 🌟 Currently building **[ChirpTude](https://github.com/iamnabeelrahman/ChirpTude)**, a hybrid platform that combines YouTube-like video features with Twitter-like social interaction.  
