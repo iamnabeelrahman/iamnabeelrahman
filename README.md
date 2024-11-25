@@ -8,7 +8,7 @@ I'm **Nabeel Rahman**, a passionate backend developer 🚀 with a keen interest 
 - 📜 Working on a **Ticket System App** as part of my apprenticeship at **Saral Startup School**.
 
 ## 💻 Where I’m Working
-I’m an apprentice at **Saral Startup School**, where I’m honing my backend development skills and working on real-world projects. My work focuses on creating scalable, user-friendly applications using modern tools and technologies.  
+I’m an apprentice at **Saral Startup School**, where I’m honing my Full stack development skills and working on real-world projects. My work focuses on creating scalable, user-friendly applications using modern tools and technologies.  
 
 ## 🚀 Technologies & Tools
 - **Programming Languages:** JavaScript  
