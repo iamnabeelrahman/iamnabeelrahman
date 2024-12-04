@@ -12,8 +12,8 @@ I’m an apprentice at **Saral Startup School**, where I’m honing my Full stac
 
 ## 🚀 Technologies & Tools
 - **Programming Languages:** JavaScript  
-- **Backend Frameworks:** Node.js, Express.js  
-- **Database Management:** MongoDB, Strapi  
+- **Backend Frameworks:** Node.js, Express.js, Strapi
+- **Database Management:** MongoDB, postgresql 
 - **Version Control:** Git, GitHub  
 
 ## 🌱 Learning Goals
