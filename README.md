@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **Nabeel Rahman**, a passionate **Computer Software Engineer** 🚀 focused on backend and full-stack development. I love building scalable, efficient applications with a keen interest in innovative solutions that combine functionality with user experience.
+Hi, I'm **Nabeel Rahman**, a Software Engineer with a strong passion for *backend* and *full-stack development*. I enjoy creating scalable, efficient applications and I'm always looking for innovative ways to blend great functionality with an excellent user experience.
 
 ## 🛠️ What I’m Doing
 - 🌟 **Building** **[ChirpTude](https://github.com/iamnabeelrahman/ChirpTude)**, a hybrid platform that combines **YouTube-like video features** with **Twitter-like social interaction**.  
