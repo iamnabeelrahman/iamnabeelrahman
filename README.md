@@ -8,7 +8,7 @@ Hi, I'm **Nabeel Rahman**, a Software Engineer with a strong passion for *backen
 - 💡 Learning and mastering **backend and full-stack development** with technologies like **Node.js, Express.js, MongoDB, PostgreSQL, React.js, Next.js**,  **Strapi**.
   
 ## 💻 Where I’m Working
-I’m currently an apprentice at **Saral Startup School**, where I’m learning full-stack development and gaining hands-on experience with real-world projects.
+I’m currently an Intern at **SaralTech™** and an Apprentice at Saral Startup School, where I’m learning full-stack development, leading a project, and gaining hands-on experience with real-world applications. These opportunities allow me to enhance my technical expertise while developing leadership skills and contributing to impactful solutions.
 
 ## 🚀 Technologies & Tools
 - **Programming Languages:** JavaScript  
