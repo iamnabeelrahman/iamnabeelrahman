@@ -3,20 +3,20 @@
 Hi, I'm **Nabeel Rahman**, a Software Engineer with a strong passion for *backend* and *full-stack development*. I enjoy creating scalable, efficient applications and I'm always looking for innovative ways to blend great functionality with an excellent user experience.
 
 ## 🛠️ What I’m Doing
-- 🌟 **Building** **[ChirpTude](https://github.com/iamnabeelrahman/ChirpTude)**, a hybrid platform that combines **YouTube-like video features** with **Twitter-like social interaction**.  
+- 🌟 Contributing to innovative software solutions and solving complex challenges as an intern at SaralTech™, gaining hands-on experience in full-stack development.
 - 🎓 Currently working on **[Ticket System App]()** as part of my apprenticeship at **Saral Startup School**.
 - 💡 Learning and mastering **backend and full-stack development** with technologies like **Node.js, Express.js, MongoDB, PostgreSQL, React.js, Next.js**,  **Strapi**.
   
 ## 💻 Where I’m Working
-I’m currently an Intern at **SaralTech™** and an Apprentice at Saral Startup School, where I’m learning full-stack development, leading a project, and gaining hands-on experience with real-world applications. These opportunities allow me to enhance my technical expertise while developing leadership skills and contributing to impactful solutions.
+I’m currently a Software Developer Intern at **SaralTech™** and an Apprentice at Saral Startup School, where I’m learning full-stack development, leading a project, and gaining hands-on experience with real-world applications. These opportunities allow me to enhance my technical expertise while developing leadership skills and contributing to impactful solutions.
 
 ## 🚀 Technologies & Tools
-- **Programming Languages:** JavaScript  
+- **Programming Languages:** JavaScript, typeScript, Python, Java
 - **Backend Frameworks:** Node.js, Express.js, Strapi  
 - **Frontend Technologies:** React, Next.js
 - **Database Management:** MongoDB, PostgreSQL, MySQL
 - **Version Control & Collaboration:** Git, GitHub, GitHub Actions  
-- **Deployment:** Render, Heroku, Cloudinary, Netlify
+- **Deployment:** CloudPanel, Cloudflare,Vercel, Render, Netlify
 
 ## 🌱 Learning Goals
 - Master **full-stack development**.  
