@@ -1,4 +1,4 @@
-# Hi, I'm **Nabeel Rahman!**👋, 
+# Hi, I'm Nabeel Rahman!👋, 
 
 A Software Engineer with a strong passion for *backend* and *full-stack development*. I enjoy creating scalable, efficient applications and I'm always looking for innovative ways to blend great functionality with an excellent user experience.
 
