@@ -1,6 +1,6 @@
-# Hi there! 👋
+# Hi, I'm **Nabeel Rahman!**👋, 
 
-Hi, I'm **Nabeel Rahman**, a Software Engineer with a strong passion for *backend* and *full-stack development*. I enjoy creating scalable, efficient applications and I'm always looking for innovative ways to blend great functionality with an excellent user experience.
+A Software Engineer with a strong passion for *backend* and *full-stack development*. I enjoy creating scalable, efficient applications and I'm always looking for innovative ways to blend great functionality with an excellent user experience.
 
 ## 🛠️ What I’m Doing
 - 🌟 Contributing to innovative software solutions and solving complex challenges as an intern at SaralTech™, gaining hands-on experience in full-stack development.
