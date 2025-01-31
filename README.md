@@ -4,7 +4,7 @@ A Software Engineer with a strong passion for *backend* and *full-stack developm
 
 ## 🛠️ What I’m Doing
 - 🌟 Contributing to innovative software solutions and solving complex challenges as an intern at SaralTech™, gaining hands-on experience in full-stack development.
-- 🎓 Currently working on **[Ticket System App]()** as part of my apprenticeship at **Saral Startup School**.
+- 🎓 Currently working on **[Saral Events](https://events.saralgroups.com/)** as part of my apprenticeship at **Saral Startup School**.
 - 💡 Learning and mastering **backend and full-stack development** with technologies like **Node.js, Express.js, MongoDB, PostgreSQL, React.js, Next.js**,  **Strapi**.
   
 ## 💻 Where I’m Working
