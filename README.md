@@ -8,7 +8,7 @@ A Software Engineer with a strong passion for *backend* and *full-stack developm
 - 💡 Learning and mastering **backend and full-stack development** with technologies like **Node.js, Express.js, MongoDB, PostgreSQL, React.js, Next.js**,  **Strapi**.
   
 ## 💻 Where I’m Working
-I’m currently a Software Developer Intern at **SaralTech™** and an Apprentice at Saral Startup School, where I’m learning full-stack development, leading a project, and gaining hands-on experience with real-world applications. These opportunities allow me to enhance my technical expertise while developing leadership skills and contributing to impactful solutions.
+I’m currently a Software Developer Intern at **SaralTech™** and an Apprentice at Saral Startup School, where I’m practicing full-stack development, leading a project, and gaining hands-on experience with real-world applications. These opportunities allow me to enhance my technical expertise while developing leadership skills and contributing to impactful solutions.
 
 ## 🚀 Technologies & Tools
 - **Programming Languages:** JavaScript, typeScript, Python, Java
