@@ -1,37 +1,58 @@
-# Hi, I'm Nabeel Rahman!👋, 
+# Hi, I'm Nabeel Rahman! 👋  
 
-A Software Engineer with a strong passion for *backend* and *full-stack development*. I enjoy creating scalable, efficient applications and I'm always looking for innovative ways to blend great functionality with an excellent user experience.
+I'm a **Software Engineer** passionate about **backend** and **full-stack development**. I love building scalable, efficient systems and continuously strive to blend powerful functionality with great user experiences.
+
+---
 
 ## 🛠️ What I’m Doing
-- 🌟 Contributing to innovative software solutions and solving complex challenges as Full-Stack Developer at SaralTech™, gaining hands-on experience in full-stack development.
-- 🎓 Currently working on startup project **[Saral Events](https://events.saralgroups.com/)** **.
-- 💡 Learning and mastering **backend and full-stack development** with technologies like **Node.js, Express.js, MongoDB, PostgreSQL, React.js, Next.js**,  **Strapi**.
-  
-## 💻 Where I’m Working
-I’m currently a Full-Stack Developer at **SaralTech™**, gaining hands-on experience with real-world applications and contributing to impactful solutions.
 
-## 🚀 Technologies & Tools
-- **Programming Languages:** JavaScript, typeScript, Python, Java
-- **Backend Frameworks:** Node.js, Express.js, Strapi  
-- **Frontend Technologies:** React, Next.js
-- **Database Management:** MongoDB, PostgreSQL, MySQL
-- **Version Control & Collaboration:** Git, GitHub, GitHub Actions  
-- **Deployment:** CloudPanel, Cloudflare,Vercel, Render, Netlify
+- 🚀 Contributing as a **Full-Stack Developer** at **SaralTech™**, solving real-world problems and crafting innovative software solutions.
+- 💼 Building the startup project [**Saral Events**](https://events.saralgroups.com/) — making event management simple and powerful.
+- 📚 Actively learning and mastering modern technologies like **Node.js**, **Express.js**, **MongoDB**, **PostgreSQL**, **React.js**, **Next.js**, and **Strapi**.
+
+---
+
+## 💻 Where I Work
+
+Currently working at **SaralTech™** as a Full-Stack Developer, where I get to bring ideas to life by working across the stack and contributing to impactful products.
+
+---
+
+## ⚙️ Tech Stack & Tools
+
+- **Languages:** JavaScript, TypeScript, Python, Java  
+- **Backend:** Node.js, Express.js, Strapi  
+- **Frontend:** React.js, Next.js  
+- **Databases:** MongoDB, PostgreSQL, MySQL  
+- **Version Control:** Git, GitHub, GitHub Actions  
+- **Deployment:** Vercel, Render, Netlify, CloudPanel, Cloudflare  
+
+---
 
 ## 🌱 Learning Goals
-- Master **full-stack development**.  
-- Build and contribute to real-world applications and open-source projects.  
-- Refine my skills in **cloud deployment**, **database design**, **DSA**, and **scalable system architecture**.
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=iamnabeelrahman&show_icons=true&theme=radical)
+- 🧠 Master **full-stack development** end-to-end  
+- 💻 Contribute to real-world and open-source projects  
+- ☁️ Deepen expertise in **cloud deployment**, **database design**, **data structures & algorithms**, and **system architecture**
 
-## 🏆 GitHub Trophies
+---
+
+## 📊 GitHub Stats
+
+![Nabeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamnabeelrahman&show_icons=true&theme=radical)
+
+---
+
+## 🏅 GitHub Trophies
+
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iamnabeelrahman&theme=radical&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📬 Let’s Connect
-- 🌐 [Twitter](https://x.com/IamNabeelRahman)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/iamnabeelrahman/)  
-- ✉️ Email: [nabeel.r.work@gmail.com](mailto:nabeel.r.work@gmail.com)
+---
 
-Thanks for stopping by! Feel free to reach out for collaboration, feedback, or just to say hi! 😊
+## 📬 Let’s Connect
+
+- 🐦 [Twitter / X](https://x.com/IamNabeelRahman)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/iamnabeelrahman/)  
+- 📧 [nabeel.r.work@gmail.com](mailto:nabeel.r.work@gmail.com)  
+
+Thanks for stopping by — feel free to connect, collaborate, or just say hi! 😊
