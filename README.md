@@ -2,7 +2,6 @@
 
 I'm a **Software Engineer** passionate about **backend** and **full-stack development**. I love building scalable, efficient systems and continuously strive to blend powerful functionality with great user experiences.
 
----
 
 ## 🛠️ What I’m Doing
 
