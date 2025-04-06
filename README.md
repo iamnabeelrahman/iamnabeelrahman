@@ -9,13 +9,11 @@ I'm a **Software Engineer** passionate about **backend** and **full-stack develo
 - 💼 Building the startup project [**Saral Events**](https://events.saralgroups.com/) — making event management simple and powerful.
 - 📚 Actively learning and mastering modern technologies like **Node.js**, **Express.js**, **MongoDB**, **PostgreSQL**, **React.js**, **Next.js**, and **Strapi**.
 
----
 
 ## 💻 Where I Work
 
 Currently working at **SaralTech™** as a Full-Stack Developer, where I get to bring ideas to life by working across the stack and contributing to impactful products.
 
----
 
 ## ⚙️ Tech Stack & Tools
 
@@ -26,7 +24,6 @@ Currently working at **SaralTech™** as a Full-Stack Developer, where I get to 
 - **Version Control:** Git, GitHub, GitHub Actions  
 - **Deployment:** Vercel, Render, Netlify, CloudPanel, Cloudflare  
 
----
 
 ## 🌱 Learning Goals
 
@@ -34,7 +31,6 @@ Currently working at **SaralTech™** as a Full-Stack Developer, where I get to 
 - 💻 Contribute to real-world and open-source projects  
 - ☁️ Deepen expertise in **cloud deployment**, **database design**, **data structures & algorithms**, and **system architecture**
 
----
 
 ## 📊 GitHub Stats
 
