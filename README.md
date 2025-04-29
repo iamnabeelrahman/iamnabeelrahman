@@ -73,13 +73,3 @@ Passionate about building scalable, efficient systems and crafting seamless user
 ---
 
 **Thanks for visiting!** Let’s collaborate or chat about tech. 😊  
-
----
-
-### 🔨 **Key Improvements:**  
-1. **Fixed grammar/spelling** ("werd" → "weird", "sringe" → "strange").  
-2. **Better structure** with clear sections and dividers (`---`).  
-3. **Added badges** for tech stack (visual + interactive).  
-4. **Improved spacing** for readability.  
-5. **Emoji enhancements** for better visual flow.  
-
