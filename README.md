@@ -1,6 +1,4 @@
-```zsh
-> neofetch
-```
+
 
 # Hi, I'm Nabeel Rahman! 👋  
 
