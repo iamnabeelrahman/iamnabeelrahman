@@ -24,10 +24,10 @@ A **Software Engineer** with a strong focus on **Backend** and **Full-Stack Deve
 `React.js` • `Next.js`
 
 **Databases**  
-`MongoDB` • `PostgreSQL` • `MySQL`
+`MongoDB` • `PostgreSQL` • `MySQL` • `Sqlite`
 
 **Tools & DevOps**  
-`Git` • `GitHub` • `GitHub Actions` • `Vercel` • `Render` • `Cloudflare` • `Netlify`
+`Git` • `GitHub` • `GitHub Actions` • `Cloudflare` • `Plesk` • `Cloudpanel` • `Render` • `Netlify` • `Vercel` 
 
 
 
