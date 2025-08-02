@@ -5,7 +5,7 @@ A **Software Engineer** with a strong focus on **Backend** and **Full-Stack Deve
 
 ## 🚀 Current Roles & Projects
 
-- **Full-Stack Developer** at [SaralTech™](https://saraltech.in)  
+- **Full-Stack Developer** at [SaralGroups™](https://www.saralgroups.com/)  
   Building and scaling real-world software systems.
   
 - **Founder / Core Contributor** at [Saral Events](https://events.saralgroups.com/)  
