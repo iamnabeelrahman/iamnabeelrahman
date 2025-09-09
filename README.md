@@ -39,9 +39,11 @@ A **Software Engineer** with a strong focus on **Backend** and **Full-Stack Deve
 
 
 ## 📈 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnabeelrahman&layout=compact&theme=radical)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamnabeelrahman&show_icons=true&theme=radical)
 
+![Metrics](https://raw.githubusercontent.com/iamnabeelrahman/iamnabeelrahman/main/github-metrics.svg)
 
 ## 🏆 Achievements
 
