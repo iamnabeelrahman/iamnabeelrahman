@@ -66,5 +66,6 @@ I combine technical depth with practical problem-solving to deliver systems that
 - 📫 [nabeel.r.work@gmail.com](mailto:nabeel.r.work@gmail.com)
 
 ---
+> "Code that scales. Systems that last. Work that matters."
 
 Thanks for visiting — always open to **serious collaborations, discussions on scalable systems, and impactful tech projects**.
