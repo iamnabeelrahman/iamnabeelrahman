@@ -1,16 +1,19 @@
 # 👋 Hi, I'm Nabeel Rahman
 
-A **Software Engineer** with a strong focus on **Backend** and **Full-Stack Development**. I specialize in building scalable, maintainable, and performant applications using modern technologies.
+A **Software Engineer** with expertise in **Backend** and **Full-Stack Development**, focused on building **scalable, maintainable, and production-grade applications**.  
+I combine technical depth with practical problem-solving to deliver systems that are reliable, efficient, and business-ready.
 
+---
 
 ## 🚀 Current Roles & Projects
 
 - **Full-Stack Developer** at [SaralGroups™](https://www.saralgroups.com/)  
-  Building and scaling real-world software systems.
-  
-- **Founder / Core Contributor** at [Saral Events](https://events.saralgroups.com/)  
-  Simplifying event management with a user-first, scalable platform.
+  Driving development and scaling of real-world software systems.
 
+- **Founder / Core Contributor** at [Saral Events](https://events.saralgroups.com/)  
+  Building a market-competitive, organiser-focused event management platform designed for scalability and simplicity.
+
+---
 
 ## 🧰 Tech Stack
 
@@ -27,28 +30,34 @@ A **Software Engineer** with a strong focus on **Backend** and **Full-Stack Deve
 `MongoDB` • `PostgreSQL` • `MySQL` • `Sqlite`
 
 **Tools & DevOps**  
-`Git` • `GitHub` • `GitHub Actions` • `Cloudflare` • `Plesk` • `Cloudpanel` • `Render` • `Netlify` • `Vercel` 
+`Git` • `GitHub` • `GitHub Actions` • `Cloudflare` • `Plesk` • `Cloudpanel` • `Render` • `Netlify` • `Vercel`
 
-
+---
 
 ## 📚 Continuous Learning
 
-- Advancing in **System Design**, **DSA**, and **Cloud Infrastructure**
-- Building production-grade, scalable full-stack applications
-- Exploring deeper into **DevOps**, **CI/CD**, and **Database Optimization**
+- Advancing in **System Design**, **Cloud Infrastructure**, and **Database Optimization**
+- Strengthening **Data Structures & Algorithms (DSA)**
+- Building scalable full-stack platforms with production-ready workflows
+- Expanding into **DevOps**, **CI/CD pipelines**, and modern deployment strategies
 
+---
 
 ## 📈 GitHub Stats
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnabeelrahman&layout=compact&theme=radical)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamnabeelrahman&show_icons=true&theme=radical)
 
 ![Metrics](https://raw.githubusercontent.com/iamnabeelrahman/iamnabeelrahman/main/github-metrics.svg)
 
+---
+
 ## 🏆 Achievements
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iamnabeelrahman&theme=radical&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
 
 ## 🤝 Connect With Me
 
@@ -56,5 +65,6 @@ A **Software Engineer** with a strong focus on **Backend** and **Full-Stack Deve
 - [LinkedIn](https://www.linkedin.com/in/iamnabeelrahman/)  
 - 📫 [nabeel.r.work@gmail.com](mailto:nabeel.r.work@gmail.com)
 
+---
 
-Thanks for visiting — open to collaborations, and tech talks!
+Thanks for visiting — always open to **serious collaborations, discussions on scalable systems, and impactful tech projects**.
